@@ -3,7 +3,7 @@
 A full-stack analytics platform for benchmarking Large Language Models (LLMs) on cost, latency, and response quality — built with Python, Streamlit, and the GitHub Models API.
 
 ## Live Demo
-🔗 [Deploy link will go here after Streamlit Cloud setup]
+🔗 https://llm-analytics-dashboard-9cjfeywogmsbrni2skkrdm.streamlit.app
 
 ## Features
 
@@ -97,4 +97,4 @@ llm-analytics-dashboard/
 ## Author
 
 **Ajayaman Kantumuchu** — MS Computer Science, Cal State San Bernardino  
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [GitHub](https://github.com/YOUR_USERNAME)
+[GitHub](https://github.com/Ajayaman2627)
